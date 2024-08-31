@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zimprour.github.io/sitemap.html.gz
+Sitemap: https://zimprour.github.io/app/sitemap.html.gz
+Sitemap: https://zimprour.github.io/assets/sitemap.html.gz
+Sitemap: https://zimprour.github.io/css/sitemap.html.gz
+Sitemap: https://zimprour.github.io/includes/sitemap.html.gz
+Sitemap: https://zimprour.github.io/item/sitemap.html.gz
+Sitemap: https://zimprour.github.io/src/sitemap.html.gz
